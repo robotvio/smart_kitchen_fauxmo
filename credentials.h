@@ -1,2 +1,2 @@
-#define WIFI_SSID "SA-ACCESS-POINT"
-#define WIFI_PASS "3090178030901780"
+#define WIFI_SSID "...."
+#define WIFI_PASS "...."
